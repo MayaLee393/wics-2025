@@ -3,7 +3,7 @@ import MenuItems from './components/menuItems';
 import data from './menu-items.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const menuItems = data
+const menuItems = data;
 function App() {
   return (
     <div className="App">

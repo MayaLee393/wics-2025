@@ -1,0 +1,837 @@
+[
+    {
+        "name": "Blueberry Coffee Cake",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Bakery"
+    },
+    {
+        "name": "Donut Holes",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Bakery"
+    },
+    {
+        "name": "French Toast Sticks",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Hard Boiled Egg",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Oven Baked Root Vegetables",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Pancake Syrup",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Peppered Cream Gravy",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Plant-based Breakfast Patty",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Scrambled Eggs",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Southern Buttermilk Biscuit",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Southwest Black Beans",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Sweet Potato Tater Tots",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Turkey Sausage Patty",
+        "meal_time": "Breakfast",
+        "category": "Breakfast Offerings"
+    },
+    {
+        "name": "Hot Hearty Oatmeal",
+        "meal_time": "Breakfast",
+        "category": "Soups"
+    },
+    {
+        "name": "Banana",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Cantaloupe",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Coconut Milk Yogurt",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Fresh Cubed Pineapple",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Fresh Orange",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Gala Apple",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Mango",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Sliced Peaches",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Strawberry Cream Cheese",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Vanilla Yogurt",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Whipped Cream Cheese",
+        "meal_time": "Breakfast",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Breakfast Topping Bar",
+        "meal_time": "Breakfast",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Chicken Sausage",
+        "meal_time": "Breakfast",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Maple Syrup",
+        "meal_time": "Breakfast",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Overnight Oats",
+        "meal_time": "Breakfast",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Pancakes",
+        "meal_time": "Breakfast",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Powdered Sugar",
+        "meal_time": "Breakfast",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Roasted Maple Sweet Potatoes",
+        "meal_time": "Breakfast",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Baked Potato",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Baked Sweet Potato",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Beef Chili w/out Beans",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Roasted Italian Broccoli",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Shredded Cheddar Cheese",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Sliced Green Onion",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Sour Cream",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Whipped Butter",
+        "meal_time": "Lunch",
+        "category": "Baked Potato Bar"
+    },
+    {
+        "name": "Assorted Dinner Rolls",
+        "meal_time": "Lunch",
+        "category": "Soups"
+    },
+    {
+        "name": "Caribbean Vegetable Stew",
+        "meal_time": "Lunch",
+        "category": "Soups"
+    },
+    {
+        "name": "Spicy Ginger Chicken &amp; Rice Soup",
+        "meal_time": "Lunch",
+        "category": "Soups"
+    },
+    {
+        "name": "Whipped Butter",
+        "meal_time": "Lunch",
+        "category": "Soups"
+    },
+    {
+        "name": "Acadian Lettuce Blend",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Banana",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Cantaloupe",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Cherry Tomatoes",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Chopped Hard Boiled Egg",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Chopped Romaine Lettuce",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Coconut Milk Yogurt",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Cucumber Slices",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Diced Chicken Breast",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Fresh Cubed Pineapple",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Fresh Orange",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Gala Apple",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Garbanzo Beans",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Mango",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Raw Broccoli Florets",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Shredded Carrots",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Shredded Cheddar Cheese",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Shredded Mozzarella Cheese",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Sliced Green Pepper",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Sliced Peaches",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Sliced Red Onion",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Tofu",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Vanilla Yogurt",
+        "meal_time": "Lunch",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Chocolate Ice Cream",
+        "meal_time": "Lunch",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Chocolate Sprinkles",
+        "meal_time": "Lunch",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Chocolate Syrup",
+        "meal_time": "Lunch",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Maraschino Cherries",
+        "meal_time": "Lunch",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Strawberry Topping",
+        "meal_time": "Lunch",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Vanilla Ice Cream",
+        "meal_time": "Lunch",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Funfetti Cupcake",
+        "meal_time": "Lunch",
+        "category": "Sweet Sensations"
+    },
+    {
+        "name": "Rainbow Cookies",
+        "meal_time": "Lunch",
+        "category": "Sweet Sensations"
+    },
+    {
+        "name": "BBQ Sandwich",
+        "meal_time": "Lunch",
+        "category": "GRILL SPECIAL"
+    },
+    {
+        "name": "Potato Salad",
+        "meal_time": "Lunch",
+        "category": "GRILL SPECIAL"
+    },
+    {
+        "name": "Sliced Pickles",
+        "meal_time": "Lunch",
+        "category": "GRILL SPECIAL"
+    },
+    {
+        "name": "Asian Stir Fry Veg Mix",
+        "meal_time": "Lunch",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "General Tso's Sauce",
+        "meal_time": "Lunch",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Ginger Garlic Jasmine Rice",
+        "meal_time": "Lunch",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Mongolian Beef and Greens",
+        "meal_time": "Lunch",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Orange Sesame Bok Choy",
+        "meal_time": "Lunch",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Vegetable Egg Roll",
+        "meal_time": "Lunch",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Herbed Couscous",
+        "meal_time": "Lunch",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Moroccan Chickpea Tagine",
+        "meal_time": "Lunch",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Moroccan Eggplant",
+        "meal_time": "Lunch",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Moroccan Spiced Vegetables",
+        "meal_time": "Lunch",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Black Bean Quinoa Veggie Patty",
+        "meal_time": "Lunch",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Grilled Chicken Sandwich",
+        "meal_time": "Lunch",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Hamburger",
+        "meal_time": "Lunch",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Waffle Fries",
+        "meal_time": "Lunch",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Breadstick",
+        "meal_time": "Lunch",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Cheese Pizza",
+        "meal_time": "Lunch",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Marinara Sauce",
+        "meal_time": "Lunch",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Meat Lovers Pizza",
+        "meal_time": "Lunch",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "meal_time": "Lunch",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Plant-based \"Cheese\" Pizza",
+        "meal_time": "Lunch",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Baked Chicken Tender",
+        "meal_time": "Lunch",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Brown Sugar Baked Beans",
+        "meal_time": "Lunch",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Dirty Rice",
+        "meal_time": "Lunch",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Fresh Sauteed Spinach",
+        "meal_time": "Lunch",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Roasted Jerk Vegetables",
+        "meal_time": "Lunch",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Assorted Dinner Rolls",
+        "meal_time": "Dinner",
+        "category": "Soups"
+    },
+    {
+        "name": "Caribbean Vegetable Stew",
+        "meal_time": "Dinner",
+        "category": "Soups"
+    },
+    {
+        "name": "Spicy Ginger Chicken &amp; Rice Soup",
+        "meal_time": "Dinner",
+        "category": "Soups"
+    },
+    {
+        "name": "Whipped Butter",
+        "meal_time": "Dinner",
+        "category": "Soups"
+    },
+    {
+        "name": "Acadian Lettuce Blend",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Banana",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Cantaloupe",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Cherry Tomatoes",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Chopped Hard Boiled Egg",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Chopped Romaine Lettuce",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Coconut Milk Yogurt",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Cucumber Slices",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Diced Chicken Breast",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Fresh Cubed Pineapple",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Fresh Orange",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Gala Apple",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Garbanzo Beans",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Mango",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Raw Broccoli Florets",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Shredded Carrots",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Shredded Cheddar Cheese",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Shredded Mozzarella Cheese",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Sliced Green Pepper",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Sliced Peaches",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Sliced Red Onion",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Tofu",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Vanilla Yogurt",
+        "meal_time": "Dinner",
+        "category": "Salad Bar Standard Toppings"
+    },
+    {
+        "name": "Chocolate Ice Cream",
+        "meal_time": "Dinner",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Chocolate Sprinkles",
+        "meal_time": "Dinner",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Chocolate Syrup",
+        "meal_time": "Dinner",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Maraschino Cherries",
+        "meal_time": "Dinner",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Strawberry Topping",
+        "meal_time": "Dinner",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Vanilla Ice Cream",
+        "meal_time": "Dinner",
+        "category": "Yogurt Bar"
+    },
+    {
+        "name": "Funfetti Cupcake",
+        "meal_time": "Dinner",
+        "category": "Sweet Sensations"
+    },
+    {
+        "name": "Strawberry Cake w/ Icing",
+        "meal_time": "Dinner",
+        "category": "Sweet Sensations"
+    },
+    {
+        "name": "BBQ Sandwich",
+        "meal_time": "Dinner",
+        "category": "GRILL SPECIAL"
+    },
+    {
+        "name": "Potato Salad",
+        "meal_time": "Dinner",
+        "category": "GRILL SPECIAL"
+    },
+    {
+        "name": "Sliced Pickles",
+        "meal_time": "Dinner",
+        "category": "GRILL SPECIAL"
+    },
+    {
+        "name": "Dijon Roasted Brussels Sprouts",
+        "meal_time": "Dinner",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Honey Glazed Baby Carrots",
+        "meal_time": "Dinner",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Italian Pork Loin Roast",
+        "meal_time": "Dinner",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Mushroom Bordelaise Sauce",
+        "meal_time": "Dinner",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Scalloped Potatoes",
+        "meal_time": "Dinner",
+        "category": "Comfort Line"
+    },
+    {
+        "name": "Caribbean Yellow Rice",
+        "meal_time": "Dinner",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Creamy Caribbean Callaloo",
+        "meal_time": "Dinner",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Spiced Roasted Chickpeas",
+        "meal_time": "Dinner",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Tofu, Peas and Carrots in Curry Sauce",
+        "meal_time": "Dinner",
+        "category": "Vegan Line"
+    },
+    {
+        "name": "Black Bean Quinoa Veggie Patty",
+        "meal_time": "Dinner",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Grilled Chicken Sandwich",
+        "meal_time": "Dinner",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Hamburger",
+        "meal_time": "Dinner",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Waffle Fries",
+        "meal_time": "Dinner",
+        "category": "The Texas Grill"
+    },
+    {
+        "name": "Breadstick",
+        "meal_time": "Dinner",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Cheese Pizza",
+        "meal_time": "Dinner",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Marinara Sauce",
+        "meal_time": "Dinner",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Meat Lovers Pizza",
+        "meal_time": "Dinner",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "meal_time": "Dinner",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Plant-based \"Cheese\" Pizza",
+        "meal_time": "Dinner",
+        "category": "Pizza Station"
+    },
+    {
+        "name": "Beef Brisket",
+        "meal_time": "Dinner",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Honey Ginger Roasted Brussels Sprouts",
+        "meal_time": "Dinner",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Pomegranate Dressing",
+        "meal_time": "Dinner",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Roasted Baby Carrots with Thyme",
+        "meal_time": "Dinner",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Romaine Side Salad",
+        "meal_time": "Dinner",
+        "category": "FAST Line"
+    },
+    {
+        "name": "Steamed Red Quinoa",
+        "meal_time": "Dinner",
+        "category": "FAST Line"
+    },
+    {
+        "name": "White Northern Beans",
+        "meal_time": "Dinner",
+        "category": "FAST Line"
+    }
+]

@@ -19,8 +19,8 @@ function SearchBar() {
         onChange={(e) => setQuery(e.target.value)}
         style={{
           display: "flex",          // Enable flexbox
-        flexDirection: "column",  // Stack items vertically
-        alignItems: "center",     // Center items horizontally
+          flexDirection: "column",  // Stack items vertically
+          alignItems: "center",     // Center items horizontally
           padding: "8px",
           margin: "0 auto",
           marginBottom: "10px",

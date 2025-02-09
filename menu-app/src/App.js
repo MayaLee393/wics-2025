@@ -18,10 +18,8 @@ function App() {
         </div>
       </div>
       <div className='row search-filter'>
-        <div className='col'>
-          <div>
+        <div>
           <SearchBar />
-          </div>
         </div>
         <div className='col'>
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-filter" viewBox="0 0 16 16">

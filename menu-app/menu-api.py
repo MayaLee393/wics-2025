@@ -10,7 +10,8 @@ def main():
     # Set up WebDriver
     driver = webdriver.Chrome()
 
-    dining_halls = ['J2', 'Kins', 'JCL']
+    # dining_halls = ['J2', 'Kins', 'JCL']
+    dining_halls = ['J2']
     with open("menu-items.json", "w", encoding="utf-8") as f:
         for dining in dining_halls:
             # Open the URL

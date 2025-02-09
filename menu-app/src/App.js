@@ -1,4 +1,5 @@
 import './App.css';
+import AddUserButton from './components/AddUserButton';
 import MenuItems from './components/menuItems';
 import data from './menu-items.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -33,6 +34,7 @@ function App() {
         ))
         }
       </div>
+      <AddUserButton>button</AddUserButton>
     </div>
   );
 }

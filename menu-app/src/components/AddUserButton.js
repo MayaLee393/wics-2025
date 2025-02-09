@@ -44,7 +44,7 @@ const AddUserButton = () => {
         />
       </div>
       <div>
-        <label htmlFor="email">Email:</label>
+        <label htmlFor="rating">Rating:</label>
         <input
           type="number"
           id="rating"
@@ -54,7 +54,7 @@ const AddUserButton = () => {
         />
       </div>
       <div>
-        <label htmlFor="email">Email:</label>
+        <label htmlFor="comments">Comments:</label>
         <input
           type="text"
           id="comments"

@@ -1,8 +1,9 @@
 import './App.css';
 import AddUserButton from './components/AddUserButton';
-import MenuItems from './components/menuItems';
+import MenuItems from './components/MenuItems';
 import data from './menu-items.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import SearchBar from "./components/SearchBar";
 
 const menuItems = data;
 function App() {
@@ -18,7 +19,9 @@ function App() {
       </div>
       <div className='row search-filter'>
         <div className='col'>
-          <div>Search</div>
+          <div>
+          <SearchBar />
+          </div>
         </div>
         <div className='col'>
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-filter" viewBox="0 0 16 16">
@@ -26,7 +29,7 @@ function App() {
           </svg>
         </div>
       </div>
-      <div className='dining-options'>
+      {/* <div className='dining-options'>
         {menuItems.map((item) => (
           <MenuItems
             name={item.name}
@@ -35,7 +38,7 @@ function App() {
           />
         ))
         }
-      </div>
+      </div> */}
       <AddUserButton>button</AddUserButton>
     </div>
   );

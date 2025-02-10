@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MayaLee393/wics-2025.git/static/css/main.90b68c35.css",
+    "main.js": "/MayaLee393/wics-2025.git/static/js/main.9400c79b.js",
+    "static/js/488.f8a3e16b.chunk.js": "/MayaLee393/wics-2025.git/static/js/488.f8a3e16b.chunk.js",
+    "index.html": "/MayaLee393/wics-2025.git/index.html",
+    "main.90b68c35.css.map": "/MayaLee393/wics-2025.git/static/css/main.90b68c35.css.map",
+    "main.9400c79b.js.map": "/MayaLee393/wics-2025.git/static/js/main.9400c79b.js.map",
+    "488.f8a3e16b.chunk.js.map": "/MayaLee393/wics-2025.git/static/js/488.f8a3e16b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b68c35.css",
+    "static/js/main.9400c79b.js"
+  ]
+}
